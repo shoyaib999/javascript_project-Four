@@ -3,6 +3,47 @@
     padding: 0;
     box-sizing: border-box;
 }
+#color-switch{
+    text-align: right;
+    margin: 1rem 1rem 0 0;
+}
+.btn{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 1px solid lightslategray;
+}
+#white{
+    background-color: #fff;
+}
+#green{
+    background-color: green;
+}
+#l-gray{
+    background-color: #344c64;
+}
+#red{
+    background-color: red;
+}
+#gray{
+    background-color: gray;
+}
+
+
 h1{
-    
+    text-align: center;
+    text-decoration: underline;
+}
+
+img{
+    width: 70%;
+    height: 80vh;
+    margin: 0 auto;
+}
+
+p{
+    text-align: justify;
+    margin: 1rem;
 }
